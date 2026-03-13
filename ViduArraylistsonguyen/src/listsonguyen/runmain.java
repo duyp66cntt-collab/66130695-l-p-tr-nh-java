@@ -13,6 +13,10 @@ public class runmain {
 		Integer tam = banPhim.nextInt();
 		dsSoNguyen.add(tam);
 		}
+		for(int i=0; i<dsSoNguyen.size();i++) {
+			Integer tam = dsSoNguyen.get(i);
+			System.out.print(tam + " ");
+		}
 		
 		
 		
