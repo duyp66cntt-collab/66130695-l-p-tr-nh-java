@@ -1,2 +1,2 @@
-# 66130695-l-p-tr-nh-java
+# 66130695-JavaProgramming
 Nơi lưu và quản lý phiên bản mã nguồn lập trình java
