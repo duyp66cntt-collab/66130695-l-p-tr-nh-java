@@ -18,7 +18,7 @@ public class Main {
             System.out.println("0. Thoát");
             System.out.print("Chọn chức năng: ");
             chon = sc.nextInt();
-            sc.nextLine(); // Xóa bộ nhớ đệm
+            sc.nextLine(); 
 
             switch (chon) {
                 case 1:
